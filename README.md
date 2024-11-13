@@ -1,6 +1,6 @@
 # ihsanapp
 
-A new Flutter project.
+A new Flutter project. Ini untuk Praktikum 2 Tekber
 
 ## Getting Started
 
