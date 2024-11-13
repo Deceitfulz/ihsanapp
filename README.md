@@ -1,6 +1,8 @@
 # ihsanapp
 
-A new Flutter project. Ini untuk Praktikum 2 Tekber
+Ihsan Kamil Al Ghozi
+5026211117
+Teknologi Berkembang (A)
 
 ## Getting Started
 
